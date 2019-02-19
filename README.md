@@ -1,4 +1,4 @@
-## Aplicacion sencilla de tareas por consola NODEJS
+## Aplicacion sencilla de tareas por consola en NODE
 
 Ejecutar este comando:
 ```
